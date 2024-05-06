@@ -1,11 +1,9 @@
 
-<img src='文艺坊图库/世博量化.png' height='100'> <img src='文艺坊图库/大秦赋 - 北京大学.png' height='100'>
+<img src='诸子百家考工记/世博量化.png' height='100'> <img src='诸子百家考工记/大秦赋 - 北京大学.png' height='100'>
 
 # FXCM 量化对冲实时数据
 
 ---
-
-[<img src='文艺坊图库/RStudioCloud.png' height='20'>](https://rstudio.cloud) [<img src='文艺坊图库/RStudioCom2.png' height='20'>](https://community.rstudio.com/new-topic?category=shiny&tags=shiny) [![](文艺坊图库/shiny-badge.svg)](https://www.shinyapps.io)
 
 **大秦赋 (Chinese Emperor)**<br>
 春秋战国《*礼记•经解*》<br>
@@ -28,13 +26,13 @@
 
 此外，也可点击[**DataCollection**](https://beta.rstudioconnect.com/content/3153)获取历史汇价数据，回测并筛选最优统计模型，再进行交易。
 
-<img src='文艺坊图库/ice_video_20171113-013636.gif' width='240'>
+<img src='诸子百家考工记/ice_video_20171113-013636.gif' width='240'>
 
 ## 2. 高频量化自动演算交易
 
 采集日内汇价...
   
-<img src='文艺坊图库/under_construction.jpg' width='240'>
+<img src='诸子百家考工记/under_construction.jpg' width='240'>
 
 ## 3. 参考资源
 
@@ -65,5 +63,5 @@
 
 ---
 
-[<img src="文艺坊图库/Scibrokes.png" height="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
-<span style='color:RoyalBlue'>**[<img src="文艺坊图库/Scibrokes.png" height="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
+[<img src="诸子百家考工记/Scibrokes.png" height="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src="诸子百家考工记/Scibrokes.png" height="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
