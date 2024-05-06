@@ -19,25 +19,25 @@
 - ticked data price：委托挂单报价（毫秒计：差之毫厘，失之千里）
 - [什么是Tick 数据？](https://blog.csdn.net/weixin_42219751/article/details/98870005)
 
-## 一、采撷实时日内汇价
+## 一、採撷实时日内汇价
 
 - **FXCM每周委托挂单数据**：点击[FXCMTickData](https://github.com/FXCMAPI/FXCMTickData) 获取历史委托挂单汇价（汇价数据默认时间为🇬🇧`GMT+0`）。为了方便科研作业，这儿忽略时差问题，将时间添加个时区但不修改时间差距。
 - **Historical Data Downloader Basic** : 点击[Historical Spreads](https://www.fxcm.com/uk/why-fxcm/execution/historical-spreads)获取历史汇价数据。
 
-此外，也可点击[**DataCollection**](https://beta.rstudioconnect.com/content/3153)获取历史汇价数据，回测并筛选最优统计模型，再进行交易。
+此外，也可点击[**DataCollection**](https://beta.rstudioconnect.com/content/3153)获取历史汇价数据，回测并筛选计数|机数尤物（最优统计模型），再进行交易。
 
 <img src='诸子百家考工记/ice_video_20171113-013636.gif' width='240'>
 
 ## 二、高频量化自动演算交易
 
-采撷日内汇价...
+採撷日内汇价...
   
 <img src='诸子百家考工记/under_construction.png' width='240'>
 
 ## 三、参考资源
 
 01. [binary.com : Job Application - Quantitative Analyst](https://github.com/englianhu/binary.com-interview-question) ❤️‍🔥
-02. [如何用R语言开始量化投资](https://github.com/scibrokes/real-time-fxcm/blob/master/reference/%E5%A6%82%E4%BD%95%E7%94%A8R%E8%AF%AD%E8%A8%80%E5%BC%80%E5%A7%8B%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84.pdf)
+02. [如何用鄀语言开始量化投资](https://github.com/scibrokes/real-time-fxcm/blob/master/reference/%E5%A6%82%E4%BD%95%E7%94%A8R%E8%AF%AD%E8%A8%80%E5%BC%80%E5%A7%8B%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84.pdf)
 03. [解密复兴科技 - 基于隐蔽马尔科夫模型的时序分析方法](https://github.com/scibrokes/real-time-fxcm/blob/master/reference/%E8%A7%A3%E5%AF%86%E5%A4%8D%E5%85%B4%E7%A7%91%E6%8A%80%20-%20%E5%9F%BA%E4%BA%8E%E9%9A%90%E8%94%BD%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A4%AB%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%97%B6%E5%BA%8F%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95.pdf) ❤️‍🔥
 04. [原则 - 雷·达里奥](https://github.com/scibrokes/analyse-the-finance-and-stocks-price-of-bookmakers/blob/master/reference/%E5%8E%9F%E5%88%99%20-%20%E9%9B%B7%C2%B7%E8%BE%BE%E9%87%8C%E5%A5%A5.pdf)
 05. [Successful Algorithmic Trading](https://github.com/englianhu/binary.com-interview-question/blob/master/reference/Successful%20Algorithmic%20Trading.pdf)
